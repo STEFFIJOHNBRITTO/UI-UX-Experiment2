@@ -15,7 +15,11 @@ Step 5: Design a Brand Logo Use Canva to design a simple brand logo that reflect
 
 Step 6: Review and Document Review the final design for alignment, spacing, contrast, and flow. Export layouts as images or interactive prototypes. Document your design decisions and how each principle/tool contributed to the final output.
 ## Output:
-<img width="516" height="772" alt="484277583-8816b60a-37d2-42f9-ac72-2a7f2a011d25" src="https://github.com/user-attachments/assets/5cbf736a-ee0c-449f-a0ad-f9be8169477e" />
+
+[lab2 uiux.pdf](https://github.com/user-attachments/files/27267339/lab2.uiux.pdf)
+
+<img width="354" height="354" alt="boutique" src="https://github.com/user-attachments/assets/0429f6e5-5e81-4567-9f9c-0172186bb8cc" />
+
 
 ## Result:
 Successfully designed responsive mobile and web layouts for an existing case study using key design principles. Applied Gestalt theory to improve visual structure, integrated standard UI components and patterns, and developed user interactions focused on usability. Created a custom brand logo using Canva, maintaining visual consistency across layouts. This process enhanced my skills in layout planning, responsive design, branding, and user-centered thinking.
