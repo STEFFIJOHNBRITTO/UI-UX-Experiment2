@@ -16,9 +16,9 @@ Step 5: Design a Brand Logo Use Canva to design a simple brand logo that reflect
 Step 6: Review and Document Review the final design for alignment, spacing, contrast, and flow. Export layouts as images or interactive prototypes. Document your design decisions and how each principle/tool contributed to the final output.
 ## Output:
 
-[lab2 uiux.pdf](https://github.com/user-attachments/files/27267339/lab2.uiux.pdf)
+<img width="352" height="722" alt="image" src="https://github.com/user-attachments/assets/2095f3a4-67cd-4d4f-a0d8-3c81316560bc" />
 
-<img width="354" height="354" alt="boutique" src="https://github.com/user-attachments/assets/0429f6e5-5e81-4567-9f9c-0172186bb8cc" />
+<img width="376" height="717" alt="image" src="https://github.com/user-attachments/assets/29373ac6-f724-412b-8de8-59587fcafa2e" />
 
 
 ## Result:
